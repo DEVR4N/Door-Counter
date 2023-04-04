@@ -1,6 +1,8 @@
 The application is prepared for a party and entertainment organization.
 You can control how many people enter the party at the end of the day and the number of girls and boys 
 inside by specifying the number of girls/boys and reservations/without reservations of the customers coming through the application.
+You can look at the application with "App Screenshot.png" in the repository.
+
 
 How to download ?
 
